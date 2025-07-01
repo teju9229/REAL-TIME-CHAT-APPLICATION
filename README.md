@@ -28,4 +28,10 @@ Overall, this real-time chatting frontend project offers a feature-rich, interac
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/53629956-c3bd-4b2a-ab5f-610371d7fd97)
 
+![Image](https://github.com/user-attachments/assets/94b37c57-0d2d-4484-9fc3-6add51f9f62b)
+
+![Image](https://github.com/user-attachments/assets/a10d63e0-c8dd-461d-9ce9-b37647237ab3)
+
+![Image](https://github.com/user-attachments/assets/8fbb62f9-2b8b-4299-a927-b64019323d57)
